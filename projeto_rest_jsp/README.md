@@ -49,7 +49,7 @@ Maven: Ferramenta de automação de build que gerencia as dependências do proje
 - Clone o repositório:
 
 ```bash
-git clone https://github.com/prof.Raphael/exemploCRUDweb.git
+git clone https://github.com/prof.Raphael/exemplo_jsp_.git
 ```
 
 - Navegue até o diretório do projeto:
